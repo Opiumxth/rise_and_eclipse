@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+Thumbs.db
