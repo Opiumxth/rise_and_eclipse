@@ -17,10 +17,11 @@ More info will be uploaded...
 
 ## Tasks list:
 
-- [ ] Game loop and basic rendering
-- [ ] Keyboard input system
-- [ ] Player sprites and animation
-- [ ] Load images
+- [x] Game loop and basic rendering
+- [x] Keyboard input system
+- [x] Player sprites and animation
+- [x] Load images
+- [ ] Diagonal movement
 - [ ] Sprite sheets for 4 maybe 8 directions
 - [ ] Frame-by-frame animation
 - [ ] Load tiles from images
